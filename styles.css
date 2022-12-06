@@ -1,0 +1,20 @@
+.GameBoard {
+    border-collapse: collapse;
+    font-size: 24px;
+}
+
+.lightred, .darkred {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.lightred {
+    background-color: rgb(250, 230, 230);
+}
+
+.darkred {
+    background-color: rgba(210, 30, 30, 0.801);
+}
